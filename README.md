@@ -1,6 +1,6 @@
-# 🚗 IoT-Based Accident Detection and Damage Analysis System using Deep Learning
+# IoT-Based Accident Detection and Damage Analysis System using Deep Learning
 
-## 📌 Overview
+## Overview
 
 Road accidents are a major cause of fatalities worldwide, often worsened by delays in detection and emergency response. This project presents an **IoT-Based Accident Detection and Damage Analysis System** that leverages **Deep Learning (LSTM + CNN)** to automatically detect vehicle accidents, assess damage severity, and send **real-time alerts** to emergency services.
 
@@ -10,19 +10,19 @@ This project is also supported by a **published research paper** presented at th
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
-* 🚨 **Real-time accident detection** using sensor-based anomaly detection
-* 🧠 **LSTM-based time-series analysis** for identifying sudden impacts and abnormal motion
-* 🖼️ **CNN-based damage severity classification** (Minor / Moderate / Severe)
-* 📍 **GPS-based location tracking** of accident site
-* 📧 **Automated email alerts** sent to hospitals and police stations
-* 📊 **Interactive Streamlit dashboard** for live monitoring and visualization
-* ☁️ **Cloud-ready architecture** for data storage and scalability
+* **Real-time accident detection** using sensor-based anomaly detection
+* **LSTM-based time-series analysis** for identifying sudden impacts and abnormal motion
+* **CNN-based damage severity classification** (Minor / Moderate / Severe)
+* **GPS-based location tracking** of accident site
+* **Automated email alerts** sent to hospitals and police stations
+* **Interactive Streamlit dashboard** for live monitoring and visualization
+* **Cloud-ready architecture** for data storage and scalability
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 The system is designed using a multi-layer architecture:
 
@@ -62,7 +62,7 @@ The system is designed using a multi-layer architecture:
 
 ---
 
-## 🔁 Workflow
+## Workflow
 
 1. Continuous data collection from IoT sensors
 2. Sensor data preprocessing and normalization
@@ -73,7 +73,7 @@ The system is designed using a multi-layer architecture:
 
 ---
 
-## 🧪 Experimental Setup
+## Experimental Setup
 
 ### Datasets
 
@@ -88,13 +88,13 @@ The system is designed using a multi-layer architecture:
 
 ### Results
 
-* ✅ **Accident Detection Accuracy:** >95%
-* ✅ **Damage Severity Classification Accuracy:** ~92%
-* ⚡ **Fast alert transmission with minimal delay**
+* **Accident Detection Accuracy:** >95%
+* **Damage Severity Classification Accuracy:** ~92%
+* **Fast alert transmission with minimal delay**
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Hardware
 
@@ -114,7 +114,7 @@ The system is designed using a multi-layer architecture:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Integration with real-time dashcam video feeds
 * Nearest ambulance dispatch using GPS
@@ -123,7 +123,7 @@ The system is designed using a multi-layer architecture:
 
 ---
 
-## 📄 Research Publication
+## Research Publication
 
 **Title:** *IoT-Based Accident Detection System using Deep Learning*
 **Conference:** ICIRDST-2025
@@ -131,7 +131,7 @@ The system is designed using a multi-layer architecture:
 
 ---
 
-## 👤 Author
+## Author
 
 **S D V S Ram Naidu**
 B.Tech CSE, Lovely Professional University
@@ -140,4 +140,4 @@ B.Tech CSE, Lovely Professional University
 
 ---
 
-⭐ *If you find this project useful, feel free to star the repository and contribute!*
+*If you find this project useful, feel free to star the repository and contribute!*
